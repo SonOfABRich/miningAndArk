@@ -2866,3 +2866,672 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.11.16-17.48.46:519][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/walking_Auto2
 [2024.11.16-17.48.46:519][412]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/walking_Auto2411E6BF24FBF2B78D18B8BA1F936DA9A.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/Autosaves/Game/Audio/walking_Auto2.uasset'
 [2024.11.16-17.48.46:520][412]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.11.16-17.49.10:428][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4082.009521
+[2024.11.16-17.49.11:428][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.16-17.49.11:428][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4082.676025, Update Interval: 356.453125
+[2024.11.16-17.56.02:203][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4493.784180
+[2024.11.16-17.56.03:203][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.16-17.56.03:203][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4494.450684, Update Interval: 305.249786
+[2024.11.16-17.59.00:149][ 15]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2024.11.16-17.59.00:172][ 15]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2024.11.16-17.59.00:183][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2024.11.16-17.59.07:997][830]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> sound_footstep
+[2024.11.16-17.59.07:999][830]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2024.11.16-17.59.10:915][118]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/sound_footstep.sound_footstep
+[2024.11.16-17.59.11:030][118]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2024.11.16-18.01.44:197][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.01.44:256][723]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/sound_footstep] ([1] browsable assets)...
+[2024.11.16-18.01.44:256][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/sound_footstep]
+[2024.11.16-18.01.44:279][723]LogSavePackage: Moving output files for package: /Game/Audio/sound_footstep
+[2024.11.16-18.01.44:279][723]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/sound_footstep67B0825B4E56DACCF548F8BFBAB689CB.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Audio/sound_footstep.uasset'
+[2024.11.16-18.01.44:286][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.347 ms (total: 659.263 ms)
+[2024.11.16-18.01.44:324][723]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.01.44:324][723]LogContentValidation: Enabled validators:
+[2024.11.16-18.01.44:324][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.01.44:324][723]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.01.44:324][723]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.01.44:324][723]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.01.44:324][723]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.01.44:324][723]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.01.44:324][723]AssetCheck: /Game/Audio/sound_footstep Validating asset
+[2024.11.16-18.01.45:598][823]LogSlate: Window 'sound_footstep' being destroyed
+[2024.11.16-18.01.53:134][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4844.663086
+[2024.11.16-18.01.53:268][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.16-18.01.53:268][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4844.787598, Update Interval: 330.022888
+[2024.11.16-18.02.09:031][128]LogStreaming: Display: FlushAsyncLoading(1183): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.16-18.02.09:079][129]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.11.16-18.02.10:105][229]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2024.11.16-18.02.10:200][233]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2024.11.16-18.02.14:159][496]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.11.16-18.02.14:168][496]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2024.11.16-18.02.14:175][496]LogStreaming: Display: FlushAsyncLoading(1184): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.16-18.02.14:179][496]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2024.11.16-18.02.14:186][496]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2024.11.16-18.02.14:196][496]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2024.11.16-18.02.14:196][496]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2024.11.16-18.02.14:199][496]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.02.14:565][496]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2024.11.16-18.02.14:833][496]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.16-18.02.14:841][496]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.11.16-18.02.14:847][496]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2024.11.16-18.02.17:331][612]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.11.16-18.02.49:100][240]Cmd: TRANSACTION UNDO
+[2024.11.16-18.02.49:100][240]LogEditorTransaction: Undo Insert Notify Track
+[2024.11.16-18.02.49:102][240]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.02.49:430][242]Cmd: TRANSACTION UNDO
+[2024.11.16-18.02.49:430][242]LogEditorTransaction: Undo Rename Notify Track to 'Sounds'
+[2024.11.16-18.02.49:431][242]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.02.55:290][429]Cmd: TRANSACTION UNDO
+[2024.11.16-18.02.55:290][429]LogEditorTransaction: Undo Add Notify Track
+[2024.11.16-18.02.55:292][429]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.02.55:572][431]Cmd: TRANSACTION UNDO
+[2024.11.16-18.02.55:572][431]LogEditorTransaction: Undo Edit Volume
+[2024.11.16-18.02.55:576][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.04.15:534][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.04.15:565][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.11.16-18.04.15:572][570]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.11.16-18.04.15:572][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd]
+[2024.11.16-18.04.15:583][570]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.11.16-18.04.15:584][570]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Walk_FwdB335EF294A182B92D8E046B4361DBD40.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.11.16-18.04.15:592][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.166 ms (total: 717.429 ms)
+[2024.11.16-18.04.15:649][570]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.04.15:649][570]LogContentValidation: Enabled validators:
+[2024.11.16-18.04.15:649][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.04.15:649][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.04.15:649][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.04.15:649][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.04.15:649][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.04.15:649][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.04.15:649][570]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd Validating asset
+[2024.11.16-18.04.16:863][628]LogSlate: Window 'MM_Walk_Fwd' being destroyed
+[2024.11.16-18.04.16:884][628]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.04.16:884][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.04.16:942][628]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.04.16:942][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.04.17:001][628]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.04.17:001][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.04.17:062][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.11.16-18.04.18:879][815]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.16-18.04.18:885][815]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-18.04.18:885][815]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.16-18.04.18:887][815]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.739 ms (total: 19.557 ms)
+[2024.11.16-18.04.18:887][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-18.04.18:888][815]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.04.18:890][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002835s)
+[2024.11.16-18.04.18:890][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002861s)
+[2024.11.16-18.04.18:911][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.16-18.04.18:912][815]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.11.16-18.04.18:914][815]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-18.04.18:914][815]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-18.04.18:914][815]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-18.04.18:914][815]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-18.04.18:915][815]LogWorldPartition: Display: WorldPartition initialize took 1.173 ms (total: 59.492 ms)
+[2024.11.16-18.04.18:915][815]LogPlayLevel: PIE: World Init took: (0.002723s)
+[2024.11.16-18.04.18:916][815]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-18.04.18:916][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.16-18.04.18:916][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-18.04.18:916][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-18.04.18:916][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-18.04.18:916][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-18.04.18:918][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.16-18.04.18:939][815]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 5 Game)
+[2024.11.16-18.04.18:940][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-18.04.18:940][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-18.04.18:940][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-18.04.18:940][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.11.16-18.04.18:940][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.11.16-18.04.18:942][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.16-18.04.18:942][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.11.16-18.04.18:942][815]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.16-18.04.18:942][815]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2024.11.16-18.04.18:942][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.16-18.04.18:944][815]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.16-18.04.18:946][815]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.16-12.04.18
+[2024.11.16-18.04.18:946][815]LogWorld: Bringing up level for play took: 0.001437
+[2024.11.16-18.04.18:948][815]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.11.16-18.04.18:952][815]PIE: Server logged in
+[2024.11.16-18.04.18:953][815]PIE: Play in editor total start time 0.069 seconds.
+[2024.11.16-18.04.26:351][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.04.26:351][378]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.04.26:351][378]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.04.26:352][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.04.26:352][378]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.11.16-18.04.26:355][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-18.04.26:361][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.04.26:380][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.04.26:380][378]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.16-18.04.26:381][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.16-18.04.26:383][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.16-18.04.26:389][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.16-18.04.26:435][379]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.11.16-18.04.27:460][471]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.11.16-18.04.27:460][471]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.11.16-18.04.27:468][471]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.04.27:769][471]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.11.16-18.04.28:015][471]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: ================================================
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Total job queries 206, among them cache hits 18 (8.74%), DDC hits 171 (83.01%), Duplicates 3 (1.46%)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 163 distinct outputs (88.11%)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: RAM used: 124.45 KiB of 6.40 GiB budget. Usage: 0.00%
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Average time worker was idle: 2403.58 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 2.27 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 2.33
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Shader code size: average 8.704 KiB, min 4.113 KiB, max 16.207 KiB
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.40 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Average processing rate: 2.59 jobs/sec
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Total thread time: 7.959 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Total thread preprocess time: 3.377 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Percentage time preprocessing: 42.43%
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Effective parallelization: 1.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.87 sec, max 0.93 sec, min 0.75 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.48 sec, max 0.55 sec, min 0.36 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.41 sec, max 0.41 sec, min 0.40 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.33 sec, max 0.34 sec, min 0.32 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 54.44% of total time (compiled    5 times, average 0.87 sec, max 0.93 sec, min 0.75 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.10% of total time (compiled    3 times, average 0.48 sec, max 0.55 sec, min 0.36 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.18% of total time (compiled    2 times, average 0.41 sec, max 0.41 sec, min 0.40 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.95% of total time (compiled    2 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.32% of total time (compiled    2 times, average 0.33 sec, max 0.34 sec, min 0.32 sec)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: === Material stats ===
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Materials Translated:    133
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Material Translation Only: 0.03 s (53%)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (4%)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: Material Cache Hits: 41 (31%)
+[2024.11.16-18.05.13:389][930]LogShaderCompilers: Display: ================================================
+[2024.11.16-18.05.47:337][833]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 4294968243
+[2024.11.16-18.05.47:337][833]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2024.11.16-18.05.47:342][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.05.52:673][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.05.52:720][101]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.11.16-18.05.52:727][101]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.11.16-18.05.52:727][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd]
+[2024.11.16-18.05.52:736][101]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.11.16-18.05.52:737][101]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Walk_FwdB4E6745546E7B763B27B25A514980FE9.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.11.16-18.05.52:745][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.957 ms (total: 789.387 ms)
+[2024.11.16-18.05.52:805][101]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.05.52:805][101]LogContentValidation: Enabled validators:
+[2024.11.16-18.05.52:805][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.05.52:805][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.05.52:805][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.05.52:805][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.05.52:805][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.05.52:805][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.05.52:805][101]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd Validating asset
+[2024.11.16-18.05.53:590][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.16-18.05.53:595][127]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/ThirdPersonMap' took 0.039
+[2024.11.16-18.05.53:596][127]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun] ([1] browsable assets)...
+[2024.11.16-18.05.53:601][127]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun]
+[2024.11.16-18.05.53:601][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun]
+[2024.11.16-18.05.53:603][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun_Auto3
+[2024.11.16-18.05.53:603][127]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/BS_MM_WalkRun_Auto358E39CDD4B1B79B32FE7DFAF53FD9C15.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun_Auto3.uasset'
+[2024.11.16-18.05.53:604][127]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/walking] ([1] browsable assets)...
+[2024.11.16-18.05.53:604][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/walking]
+[2024.11.16-18.05.53:610][127]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/walking_Auto3
+[2024.11.16-18.05.53:610][127]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/walking_Auto36485274A4157355EC79318811FBE533F.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/Autosaves/Game/Audio/walking_Auto3.uasset'
+[2024.11.16-18.05.53:611][127]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.11.16-18.06.28:639][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.06.28:672][782]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.11.16-18.06.28:679][782]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.11.16-18.06.28:679][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd]
+[2024.11.16-18.06.28:689][782]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.11.16-18.06.28:689][782]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Walk_Fwd47A09DA14F21E6FF81DCBF8167B1192C.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.11.16-18.06.28:697][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.386 ms (total: 847.774 ms)
+[2024.11.16-18.06.28:757][782]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.06.28:757][782]LogContentValidation: Enabled validators:
+[2024.11.16-18.06.28:757][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.06.28:757][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.06.28:757][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.06.28:757][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.06.28:757][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.06.28:757][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.06.28:757][782]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd Validating asset
+[2024.11.16-18.06.30:082][858]LogSlate: Window 'MM_Walk_Fwd' being destroyed
+[2024.11.16-18.06.30:100][858]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.06.30:100][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.06.30:110][858]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.06.30:110][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.06.30:144][858]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.06.30:144][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.06.30:172][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.16-18.06.38:524][605]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.11.16-18.06.38:525][605]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.11.16-18.06.38:533][605]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.06.38:847][605]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.11.16-18.06.39:087][605]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.11.16-18.08.11:406][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5222.959961
+[2024.11.16-18.08.11:555][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.16-18.08.11:555][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5223.090332, Update Interval: 319.893188
+[2024.11.16-18.14.18:251][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.14.18:317][945]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd] ([1] browsable assets)...
+[2024.11.16-18.14.18:324][945]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd]
+[2024.11.16-18.14.18:324][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd]
+[2024.11.16-18.14.18:334][945]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd
+[2024.11.16-18.14.18:334][945]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Run_FwdE76F6E684A924D4FADB1E296FC11702D.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset'
+[2024.11.16-18.14.18:341][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.590 ms (total: 938.364 ms)
+[2024.11.16-18.14.18:400][945]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.14.18:400][945]LogContentValidation: Enabled validators:
+[2024.11.16-18.14.18:400][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.14.18:400][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.14.18:400][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.14.18:400][945]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.14.18:400][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.14.18:400][945]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.14.18:400][945]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd Validating asset
+[2024.11.16-18.14.19:963][ 30]LogSlate: Window 'MM_Run_Fwd' being destroyed
+[2024.11.16-18.14.20:007][ 30]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.14.20:008][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.14.20:020][ 30]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.14.20:020][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.14.20:064][ 30]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.14.20:064][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.14.20:109][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.11.16-18.14.24:032][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5595.577637
+[2024.11.16-18.14.24:133][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.16-18.14.24:133][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5595.670898, Update Interval: 346.072571
+[2024.11.16-18.14.29:605][740]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Brandon Richards\Downloads\footstepSnow.wav)
+[2024.11.16-18.14.29:609][740]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave footstepSnow...
+[2024.11.16-18.14.29:609][740]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/footstepSnow.footstepSnow] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.11.16-18.14.29:625][740]LogAudioDerivedData: Display: footstepSnow compressed to 9.83% (from 363KB to 35KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2024.11.16-18.14.29:625][740]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/footstepSnow.footstepSnow: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=36553 bytes, ChunkN=0)
+[2024.11.16-18.14.29:626][740]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave footstepSnow...
+[2024.11.16-18.14.29:626][740]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/footstepSnow.footstepSnow] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2024.11.16-18.14.29:641][741]LogAudioDerivedData: Display: footstepSnow compressed to 9.83% (from 363KB to 35KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2024.11.16-18.14.29:642][741]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/footstepSnow.footstepSnow: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=36553 bytes, ChunkN=0)
+[2024.11.16-18.14.34:389][947]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2024.11.16-18.14.34:396][947]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2024.11.16-18.14.34:406][948]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2024.11.16-18.14.44:418][101]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> sound_footstepSnow
+[2024.11.16-18.14.44:419][101]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2024.11.16-18.14.45:887][252]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/sound_footstepSnow.sound_footstepSnow
+[2024.11.16-18.14.46:001][252]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2024.11.16-18.15.28:932][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.15.28:989][144]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/sound_footstepSnow] ([1] browsable assets)...
+[2024.11.16-18.15.28:989][144]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/sound_footstepSnow]
+[2024.11.16-18.15.29:010][144]LogSavePackage: Moving output files for package: /Game/Audio/sound_footstepSnow
+[2024.11.16-18.15.29:010][144]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/sound_footstepSnow9D7166FA430EF3BDBE0300885278962F.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Audio/sound_footstepSnow.uasset'
+[2024.11.16-18.15.29:017][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.913 ms (total: 1.02 sec)
+[2024.11.16-18.15.29:071][144]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.15.29:071][144]LogContentValidation: Enabled validators:
+[2024.11.16-18.15.29:071][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.15.29:071][144]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.15.29:071][144]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.15.29:071][144]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.15.29:071][144]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.15.29:071][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.15.29:071][144]AssetCheck: /Game/Audio/sound_footstepSnow Validating asset
+[2024.11.16-18.16.06:007][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.16.06:057][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/sound_footstepSnow] ([1] browsable assets)...
+[2024.11.16-18.16.06:057][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/sound_footstepSnow]
+[2024.11.16-18.16.06:079][517]LogSavePackage: Moving output files for package: /Game/Audio/sound_footstepSnow
+[2024.11.16-18.16.06:080][517]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/sound_footstepSnowC131922F4E77570BF9C7298867834077.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Audio/sound_footstepSnow.uasset'
+[2024.11.16-18.16.06:089][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.181 ms (total: 1.10 sec)
+[2024.11.16-18.16.06:125][517]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.16.06:125][517]LogContentValidation: Enabled validators:
+[2024.11.16-18.16.06:125][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.16.06:125][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.16.06:125][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.16.06:125][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.16.06:125][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.16.06:125][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.16.06:125][517]AssetCheck: /Game/Audio/sound_footstepSnow Validating asset
+[2024.11.16-18.16.08:543][735]LogSlate: Window 'sound_footstepSnow' being destroyed
+[2024.11.16-18.16.08:550][735]LogSlate: Window 'sound_footstepSnow' being destroyed
+[2024.11.16-18.16.13:427][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.16-18.16.14:807][263]LogSlate: Window 'Save Content' being destroyed
+[2024.11.16-18.16.14:834][263]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.16.14:891][263]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun] ([1] browsable assets)...
+[2024.11.16-18.16.14:891][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun]
+[2024.11.16-18.16.14:892][263]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun
+[2024.11.16-18.16.14:893][263]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/BS_MM_WalkRunE61990884831DCB90493A3910A7BB04C.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset'
+[2024.11.16-18.16.14:894][263]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/footstepSnow] ([1] browsable assets)...
+[2024.11.16-18.16.14:895][263]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/footstepSnow.footstepSnow]
+[2024.11.16-18.16.14:895][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/footstepSnow]
+[2024.11.16-18.16.14:899][263]LogSavePackage: Moving output files for package: /Game/Audio/footstepSnow
+[2024.11.16-18.16.14:899][263]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/footstepSnow2D5A32CB43FC37B809718ABC631FF547.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Audio/footstepSnow.uasset'
+[2024.11.16-18.16.14:901][263]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/walking] ([1] browsable assets)...
+[2024.11.16-18.16.14:901][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/walking]
+[2024.11.16-18.16.14:905][263]LogSavePackage: Moving output files for package: /Game/Audio/walking
+[2024.11.16-18.16.14:905][263]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/walkingC6A4EE8C429F5463082E78AC2E005FAD.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Audio/walking.uasset'
+[2024.11.16-18.16.14:913][263]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.100 ms (total: 1.18 sec)
+[2024.11.16-18.16.14:974][263]LogContentValidation: Display: Starting to validate 3 assets
+[2024.11.16-18.16.14:974][263]LogContentValidation: Enabled validators:
+[2024.11.16-18.16.14:974][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.16.14:974][263]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.16.14:974][263]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.16.14:974][263]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.16.14:974][263]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.16.14:974][263]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.16.14:974][263]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun Validating asset
+[2024.11.16-18.16.14:974][263]AssetCheck: /Game/Audio/footstepSnow Validating asset
+[2024.11.16-18.16.14:974][263]AssetCheck: /Game/Audio/walking Validating asset
+[2024.11.16-18.16.20:884][897]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.11.16-18.16.26:971][426]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.11.16-18.16.26:972][426]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.11.16-18.16.26:979][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.16.27:303][426]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.11.16-18.16.27:569][426]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2024.11.16-18.17.17:223][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.16-18.17.17:227][151]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/ThirdPersonMap' took 0.048
+[2024.11.16-18.17.17:227][151]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.11.16-18.17.17:234][151]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.11.16-18.17.17:234][151]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd]
+[2024.11.16-18.17.17:244][151]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd_Auto4
+[2024.11.16-18.17.17:244][151]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Walk_Fwd_Auto47E1B2E2442F51D65A692BE870E7D4F19.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/Autosaves/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd_Auto4.uasset'
+[2024.11.16-18.17.17:245][151]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.11.16-18.21.05:510][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.21.05:542][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.11.16-18.21.05:549][200]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.11.16-18.21.05:549][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd]
+[2024.11.16-18.21.05:559][200]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.11.16-18.21.05:560][200]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Walk_Fwd96242BBB45C84F04916777BB023306E8.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.11.16-18.21.05:567][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.778 ms (total: 1.24 sec)
+[2024.11.16-18.21.05:625][200]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.21.05:625][200]LogContentValidation: Enabled validators:
+[2024.11.16-18.21.05:625][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.21.05:625][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.21.05:625][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.21.05:625][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.21.05:625][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.21.05:625][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.21.05:625][200]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd Validating asset
+[2024.11.16-18.21.08:397][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5999.919434
+[2024.11.16-18.21.08:549][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.16-18.21.08:549][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6000.053711, Update Interval: 300.195923
+[2024.11.16-18.21.28:565][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.21.28:626][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd] ([1] browsable assets)...
+[2024.11.16-18.21.28:633][495]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd]
+[2024.11.16-18.21.28:633][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd]
+[2024.11.16-18.21.28:644][495]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2024.11.16-18.21.28:644][495]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Walk_FwdE1AD10F643B5E90E50D51AB85F152E10.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2024.11.16-18.21.28:652][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.173 ms (total: 1.32 sec)
+[2024.11.16-18.21.28:709][495]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.21.28:709][495]LogContentValidation: Enabled validators:
+[2024.11.16-18.21.28:709][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.21.28:709][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.21.28:709][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.21.28:709][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.21.28:709][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.21.28:709][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.21.28:709][495]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd Validating asset
+[2024.11.16-18.21.29:711][547]LogSlate: Window 'MM_Walk_Fwd' being destroyed
+[2024.11.16-18.21.29:731][547]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.21.29:731][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.21.29:744][547]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.21.29:744][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.21.29:782][547]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.21.29:782][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.21.29:817][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.16-18.21.31:998][763]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.11.16-18.21.31:999][763]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.11.16-18.21.32:006][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.11.16-18.21.32:311][763]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2024.11.16-18.21.32:574][763]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2024.11.16-18.22.08:798][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.22.08:845][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd] ([1] browsable assets)...
+[2024.11.16-18.22.08:852][839]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd]
+[2024.11.16-18.22.08:852][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd]
+[2024.11.16-18.22.08:863][839]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd
+[2024.11.16-18.22.08:864][839]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/MM_Run_FwdC42850BA42C2D364B40915B84A752132.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset'
+[2024.11.16-18.22.08:872][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.947 ms (total: 1.40 sec)
+[2024.11.16-18.22.08:928][839]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.22.08:928][839]LogContentValidation: Enabled validators:
+[2024.11.16-18.22.08:928][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.22.08:928][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.22.08:928][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.22.08:928][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.22.08:928][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.22.08:928][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.22.08:928][839]AssetCheck: /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd Validating asset
+[2024.11.16-18.22.09:882][893]LogSlate: Window 'MM_Run_Fwd' being destroyed
+[2024.11.16-18.22.09:908][893]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.22.09:908][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.22.09:952][893]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.22.09:952][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.22.10:012][893]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.22.10:012][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.22.10:058][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.11.16-18.22.11:948][100]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.16-18.22.11:954][100]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-18.22.11:954][100]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.16-18.22.11:956][100]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.962 ms (total: 21.520 ms)
+[2024.11.16-18.22.11:957][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-18.22.11:957][100]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.22.11:960][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002788s)
+[2024.11.16-18.22.11:960][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002815s)
+[2024.11.16-18.22.11:979][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.16-18.22.11:981][100]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.11.16-18.22.11:982][100]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-18.22.11:982][100]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-18.22.11:982][100]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-18.22.11:982][100]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-18.22.11:983][100]LogWorldPartition: Display: WorldPartition initialize took 1.159 ms (total: 60.651 ms)
+[2024.11.16-18.22.11:983][100]LogPlayLevel: PIE: World Init took: (0.002722s)
+[2024.11.16-18.22.11:984][100]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-18.22.11:984][100]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.16-18.22.11:984][100]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-18.22.11:984][100]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-18.22.11:984][100]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-18.22.11:984][100]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-18.22.11:986][100]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.16-18.22.12:008][100]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 5 Game)
+[2024.11.16-18.22.12:008][100]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-18.22.12:008][100]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-18.22.12:008][100]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-18.22.12:009][100]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.11.16-18.22.12:009][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.11.16-18.22.12:011][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.11.16-18.22.12:011][100]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.11.16-18.22.12:011][100]LogInit: FAudioDevice initialized with ID 12.
+[2024.11.16-18.22.12:011][100]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2024.11.16-18.22.12:011][100]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.16-18.22.12:014][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.16-18.22.12:016][100]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.16-12.22.12
+[2024.11.16-18.22.12:016][100]LogWorld: Bringing up level for play took: 0.001565
+[2024.11.16-18.22.12:017][100]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.11.16-18.22.12:022][100]PIE: Server logged in
+[2024.11.16-18.22.12:023][100]PIE: Play in editor total start time 0.069 seconds.
+[2024.11.16-18.22.41:342][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.22.41:342][350]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.22.41:342][350]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.22.41:343][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.22.41:343][350]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.11.16-18.22.41:346][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-18.22.41:351][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.22.41:372][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.22.41:372][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.16-18.22.41:372][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.16-18.22.41:375][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.16-18.22.41:382][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.16-18.22.41:428][351]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.11.16-18.24.11:721][720]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.16-18.24.11:721][720]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2024.11.16-18.24.14:432][840]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2024.11.16-18.24.14:436][841]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2024.11.16-18.24.18:589][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.11.16-18.24.20:188][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.24.20:236][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.16-18.24.20:275][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.16-18.24.20:275][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.16-18.24.20:284][135]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.16-18.24.20:284][135]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/BP_FirstPersonCharacterA5FE2AC84E86B8164F3795AACA8C926F.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.16-18.24.20:291][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.938 ms (total: 1.50 sec)
+[2024.11.16-18.24.20:351][135]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.24.20:351][135]LogContentValidation: Enabled validators:
+[2024.11.16-18.24.20:351][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.24.20:351][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.24.20:351][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.24.20:351][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.24.20:351][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.24.20:351][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.24.20:351][135]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.16-18.24.22:058][229]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.11.16-18.24.22:111][229]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.24.22:111][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.24.22:175][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.16-18.24.25:248][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.16-18.24.26:023][635]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.16-18.24.26:029][635]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-18.24.26:029][635]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.16-18.24.26:032][635]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.418 ms (total: 24.939 ms)
+[2024.11.16-18.24.26:033][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-18.24.26:033][635]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.24.26:036][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002640s)
+[2024.11.16-18.24.26:036][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002665s)
+[2024.11.16-18.24.26:058][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.16-18.24.26:059][635]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.11.16-18.24.26:061][635]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-18.24.26:061][635]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-18.24.26:061][635]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-18.24.26:061][635]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-18.24.26:062][635]LogWorldPartition: Display: WorldPartition initialize took 1.113 ms (total: 61.765 ms)
+[2024.11.16-18.24.26:062][635]LogPlayLevel: PIE: World Init took: (0.002562s)
+[2024.11.16-18.24.26:063][635]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-18.24.26:063][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.16-18.24.26:063][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-18.24.26:063][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-18.24.26:063][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-18.24.26:063][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-18.24.26:065][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.16-18.24.26:086][635]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 5 Game)
+[2024.11.16-18.24.26:086][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-18.24.26:086][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-18.24.26:086][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-18.24.26:086][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.11.16-18.24.26:086][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.11.16-18.24.26:088][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.11.16-18.24.26:088][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.11.16-18.24.26:088][635]LogInit: FAudioDevice initialized with ID 13.
+[2024.11.16-18.24.26:088][635]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.11.16-18.24.26:088][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.16-18.24.26:091][635]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.16-18.24.26:093][635]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.16-12.24.26
+[2024.11.16-18.24.26:093][635]LogWorld: Bringing up level for play took: 0.001546
+[2024.11.16-18.24.26:095][635]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.11.16-18.24.26:099][635]PIE: Server logged in
+[2024.11.16-18.24.26:100][635]PIE: Play in editor total start time 0.071 seconds.
+[2024.11.16-18.24.35:412][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.24.35:412][337]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.24.35:412][337]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.24.35:412][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.24.35:412][337]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.11.16-18.24.35:416][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-18.24.35:421][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.24.35:441][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.24.35:442][337]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.16-18.24.35:442][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.16-18.24.35:444][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.16-18.24.35:450][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.16-18.24.35:495][338]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.11.16-18.24.42:158][455]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.16-18.24.42:159][455]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2024.11.16-18.24.50:055][890]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.11.16-18.24.53:884][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.16-18.24.54:990][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.16-18.24.55:037][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.16-18.24.55:077][142]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.16-18.24.55:077][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.16-18.24.55:085][142]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.16-18.24.55:086][142]LogSavePackage: Moving 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Saved/BP_FirstPersonCharacter6BA732064CF617A48B0F3AB450C7DFAE.tmp' to 'C:/Users/Brandon Richards/Desktop/GitKraken/Unreal Projects/MiningAndCrafting 5.5/miningAndArk/SurvivalGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.16-18.24.55:094][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.964 ms (total: 1.60 sec)
+[2024.11.16-18.24.55:153][142]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.16-18.24.55:153][142]LogContentValidation: Enabled validators:
+[2024.11.16-18.24.55:153][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.16-18.24.55:153][142]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.16-18.24.55:153][142]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.16-18.24.55:153][142]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.16-18.24.55:153][142]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.16-18.24.55:153][142]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.16-18.24.55:153][142]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.16-18.25.02:746][209]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.11.16-18.25.02:851][209]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.25.02:851][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.25.02:915][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.16-18.25.04:196][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.16-18.25.04:202][334]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.16-18.25.04:203][334]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.16-18.25.04:205][334]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.030 ms (total: 26.969 ms)
+[2024.11.16-18.25.04:206][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.16-18.25.04:206][334]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.25.04:209][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2024.11.16-18.25.04:209][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002843s)
+[2024.11.16-18.25.04:227][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.16-18.25.04:228][334]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.11.16-18.25.04:229][334]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.16-18.25.04:229][334]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.16-18.25.04:229][334]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.16-18.25.04:229][334]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.16-18.25.04:231][334]LogWorldPartition: Display: WorldPartition initialize took 1.135 ms (total: 62.900 ms)
+[2024.11.16-18.25.04:231][334]LogPlayLevel: PIE: World Init took: (0.002500s)
+[2024.11.16-18.25.04:231][334]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.16-18.25.04:231][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.16-18.25.04:231][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.16-18.25.04:231][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.16-18.25.04:231][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.16-18.25.04:231][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.16-18.25.04:233][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.16-18.25.04:255][334]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 5 Game)
+[2024.11.16-18.25.04:255][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.16-18.25.04:255][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.16-18.25.04:255][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.16-18.25.04:255][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.11.16-18.25.04:255][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.11.16-18.25.04:257][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.11.16-18.25.04:257][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.11.16-18.25.04:257][334]LogInit: FAudioDevice initialized with ID 14.
+[2024.11.16-18.25.04:257][334]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2024.11.16-18.25.04:257][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.16-18.25.04:260][334]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.16-18.25.04:261][334]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.16-12.25.04
+[2024.11.16-18.25.04:261][334]LogWorld: Bringing up level for play took: 0.001410
+[2024.11.16-18.25.04:263][334]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.11.16-18.25.04:267][334]PIE: Server logged in
+[2024.11.16-18.25.04:268][334]PIE: Play in editor total start time 0.065 seconds.
+[2024.11.16-18.25.56:181][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.25.56:181][311]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.16-18.25.56:181][311]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.16-18.25.56:182][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.25.56:182][311]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.11.16-18.25.56:185][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.16-18.25.56:191][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.16-18.25.56:211][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.16-18.25.56:212][311]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.16-18.25.56:212][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.16-18.25.56:214][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.16-18.25.56:221][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.16-18.25.56:269][312]LogPlayLevel: Display: Destroying online subsystem :Context_46
